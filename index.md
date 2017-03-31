@@ -13,29 +13,31 @@ See LICENSE file.
 
 ## PIPS-IPM
 
-Developed by:
+### Developed by:
   * Cosmin G. Petra - Lawrence Livermore / Argonne National Laboratory
 
-Contributions from:
+### Contributions from:
   * Miles Lubin - Argonne National Laboratory
   * Naiyuan Chiang - Argonne National Laboratory
 
 ## PIPS-S
 
-Developed by: 
+### Developed by: 
   * Miles Lubin - Argonne National Laboratory
   * Cosmin G. Petra - Lawrence Livermore / Argonne National Laboratory
 
-Contributions from:
+### Contributions from:
   * Geoffrey Oxberry - Lawrence Livermore National Laboratory
   * Julian Hall - U. of Edinburgh
 
 ## PIPS-NLP 
 
-Developed by:
+### Developed by:
  * Naiyuan Chiang - Argonne National Laboratory
  * Victor Zavala - Argonne National Laboratory and Univ. of Wisconsin-Madison
  * Cosmin G. Petra - Lawrence Livermore / Argonne National Laboratory	 
+
+### [Doxygen documentation](./PIPS-NLP/)
 
 # INSTALLATION Instructions
 
