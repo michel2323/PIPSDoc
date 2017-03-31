@@ -1,7 +1,7 @@
 var searchData=
 [
   ['w',['w',['../class_ma27_solver_base.html#a7a10d9b9b1c84d0b72aeae3ce347222a',1,'Ma27SolverBase::w()'],['../class_nlp_gen_vars.html#a9e80a61dae76863ab95c6d541ea4035c',1,'NlpGenVars::w()']]],
-  ['w_5fblock',['w_block',['../_nlp_gen_vars_8h.html#a99fb83031ce9923c84392b4e92f956b5adc1a009401b8b7e85a9cdeea1396dff6',1,'NlpGenVars.h']]],
+  ['w_5fblock',['w_block',['../_nlp_gen_vars_8h.html#adf764cbdea00d65edcd07bb9953ad2b7adc1a009401b8b7e85a9cdeea1396dff6',1,'NlpGenVars.h']]],
   ['w_5fs',['w_s',['../constants_8h.html#ad39be4c6611d2b19ee5a2646202252b8',1,'constants.h']]],
   ['wd',['Wd',['../class_nlp_gen_residuals.html#a83eddd393d64dd2415b35fd157c2a844',1,'NlpGenResiduals']]],
   ['whatami',['whatami',['../class_linear_algebra_package.html#ac6ed7b23d6efef4c6a6e8fe42c555af9',1,'LinearAlgebraPackage::whatami()'],['../class_dense_linear_algebra_package.html#a3e8e9dca306be98b4d7a0009b113464d',1,'DenseLinearAlgebraPackage::whatami()'],['../class_petsc_linear_algebra_package.html#a5875e066d23a80563d8f616ffb575df6',1,'PetscLinearAlgebraPackage::whatami()'],['../class_sparse_linear_algebra_package.html#a2a03f1ea55dd16a1139e34d13a8c8071',1,'SparseLinearAlgebraPackage::whatami()']]],

@@ -1,7 +1,7 @@
 var searchData=
 [
   ['u',['u',['../structma86__control__d.html#a6ec1bd79267a42ece2de0b9096039e49',1,'ma86_control_d::u()'],['../class_nlp_gen_vars.html#ae216cb3bb60275bd77877dd639b8becd',1,'NlpGenVars::u()']]],
-  ['u_5fblock',['u_block',['../_nlp_gen_vars_8h.html#a99fb83031ce9923c84392b4e92f956b5ab015b176ad1cc6d7ffcf6f31b0715516',1,'NlpGenVars.h']]],
+  ['u_5fblock',['u_block',['../_nlp_gen_vars_8h.html#adf764cbdea00d65edcd07bb9953ad2b7ab015b176ad1cc6d7ffcf6f31b0715516',1,'NlpGenVars.h']]],
   ['ubvec',['ubvec',['../classgraph_part.html#a01f65662042202a2ea6d3bb02858fb7f',1,'graphPart']]],
   ['uctrans',['UCTRANS',['../s_tree_callbacks_8_c.html#a2d4d33664e75b8ec96798491e2966558',1,'UCTRANS():&#160;sTreeCallbacks.C'],['../_stoch_tree_8_c.html#a2d4d33664e75b8ec96798491e2966558',1,'UCTRANS():&#160;StochTree.C']]],
   ['umf_5fcontrol',['umf_Control',['../class_umf_pack_solver.html#a4de9b081ff6bc531ae1bd9a6d34b3504',1,'UmfPackSolver']]],
@@ -25,7 +25,7 @@ var searchData=
   ['updatenlpinfo',['updateNlpInfo',['../class_nlp_p_i_p_s_ipm_interface.html#a6861a1038a8e4385ac8e7994604a7b0f',1,'NlpPIPSIpmInterface']]],
   ['updateslackanddual',['updateSlackAndDual',['../class_nlp_gen_vars.html#a62e9a1f6258275e8c1218f0b257f95e1',1,'NlpGenVars']]],
   ['updatesocrhs',['updateSOCRhs',['../class_nlp_gen_residuals.html#ab86a3daeae2e49e9d0e8323fa0d7a258',1,'NlpGenResiduals']]],
-  ['uppbound',['UppBound',['../get_ampl_function_8h.html#abc6126af1d45847bc59afa0aa3216b04aaec696f9356a23729ce8c0055555060a',1,'UppBound():&#160;getAmplFunction.h'],['../_nlp_info_call_back_8_c.html#adc29c2ff13d900c2f185ee95427fb06caaec696f9356a23729ce8c0055555060a',1,'UppBound():&#160;NlpInfoCallBack.C']]],
+  ['uppbound',['UppBound',['../get_ampl_function_8h.html#a99fb83031ce9923c84392b4e92f956b5aaec696f9356a23729ce8c0055555060a',1,'UppBound():&#160;getAmplFunction.h'],['../_nlp_info_call_back_8_c.html#abc6126af1d45847bc59afa0aa3216b04aaec696f9356a23729ce8c0055555060a',1,'UppBound():&#160;NlpInfoCallBack.C']]],
   ['use_5ftinystep',['use_TinyStep',['../class_filter_i_p_m_solver.html#a22cd39c982653234eaf261b92fdaa410',1,'FilterIPMSolver']]],
   ['usedualregalg',['UseDualRegAlg',['../classpips_options.html#a9525dd80154f63567ab62b5c926adf9f',1,'pipsOptions']]],
   ['usefilter',['UseFilter',['../classpips_options.html#a738b07a5c9d2cb4a894b6c83e75e9cc9',1,'pipsOptions']]],

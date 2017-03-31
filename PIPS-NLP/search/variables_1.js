@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['a',['a',['../structooqp__mpi__double__int.html#a904c28cdec8b3614fa33a1ee34b72885',1,'ooqp_mpi_double_int::a()'],['../class_double_iterative_linear_solver.html#a383a14e5437096d84acc1191f6efa26d',1,'DoubleIterativeLinearSolver::A()'],['../class_nlp_info.html#a20f6be82a25886e7257b3c1324558834',1,'NlpInfo::A()'],['../class_nlp_info_call_back.html#adedc639361e3e1c6aa557805106e27bd',1,'NlpInfoCallBack::A()']]],
+  ['a',['A',['../class_double_iterative_linear_solver.html#a383a14e5437096d84acc1191f6efa26d',1,'DoubleIterativeLinearSolver::A()'],['../class_nlp_info.html#a20f6be82a25886e7257b3c1324558834',1,'NlpInfo::A()'],['../class_nlp_info_call_back.html#adedc639361e3e1c6aa557805106e27bd',1,'NlpInfoCallBack::A()'],['../structooqp__mpi__double__int.html#a904c28cdec8b3614fa33a1ee34b72885',1,'ooqp_mpi_double_int::a()']]],
   ['action',['action',['../structma86__control__d.html#abab70b1444f61070370c72f8a93bebc1',1,'ma86_control_d']]],
   ['actparts',['actparts',['../classgraph_part.html#a3d98e8fba71f98c9980644ee8680f893',1,'graphPart']]],
   ['additivediag',['additiveDiag',['../class_nlp_gen_linsys.html#a7616a7374924cfd5a460e4c37b338f68',1,'NlpGenLinsys::additiveDiag()'],['../class_sparse_storage.html#a45acb6b9240c06cd633f0c407503ccfe',1,'SparseStorage::additiveDiag()']]],
@@ -15,7 +15,7 @@ var searchData=
   ['alp_5fpri_5fmax',['alp_pri_max',['../class_filter_i_p_m_solver.html#a83963b5a386be947ce338e19aa920778',1,'FilterIPMSolver']]],
   ['alpcon',['ALPCon',['../class_filter_i_p_m_solver.html#ab1dc043679b86fc38338f18704d3c091',1,'FilterIPMSolver']]],
   ['alpha',['alpha',['../struct_ooqp_monitor_data.html#ac9e1f951e528771e75a2a043c50d8574',1,'OoqpMonitorData']]],
-  ['amat',['amat',['../class_struct_ju_m_p_input.html#addd4cbc13c490b1f42efc090a530dad3',1,'StructJuMPInput::amat()'],['../classampl_gen_stoch_input.html#a4ecc39ea490e203e93c7fe84a9abc81a',1,'amplGenStochInput::Amat()'],['../classdcopflow_input.html#a15230979cd5f32b5e0346d0f84a3b68c',1,'dcopflowInput::Amat()'],['../classraw_input.html#a1b917a72332ab20417de917496ec4b04',1,'rawInput::Amat()'],['../classs_info.html#af0b5d2fb3f9364b42a7c7ccb536657f6',1,'sInfo::Amat()'],['../class_stoch_gen_matrix.html#a441c842468598ceffddfdbbe78b29f46',1,'StochGenMatrix::Amat()']]],
+  ['amat',['amat',['../class_struct_ju_m_p_input.html#addd4cbc13c490b1f42efc090a530dad3',1,'StructJuMPInput::amat()'],['../classs_info.html#af0b5d2fb3f9364b42a7c7ccb536657f6',1,'sInfo::Amat()'],['../class_stoch_gen_matrix.html#a441c842468598ceffddfdbbe78b29f46',1,'StochGenMatrix::Amat()'],['../classampl_gen_stoch_input.html#a4ecc39ea490e203e93c7fe84a9abc81a',1,'amplGenStochInput::Amat()'],['../classdcopflow_input.html#a15230979cd5f32b5e0346d0f84a3b68c',1,'dcopflowInput::Amat()'],['../classraw_input.html#a1b917a72332ab20417de917496ec4b04',1,'rawInput::Amat()']]],
   ['amatidxmap',['AmatIdxMap',['../class_nlp_gen_sparse_linsys.html#ad5a6e1a6bba6c9f10d4884c40e951de7',1,'NlpGenSparseLinsys']]],
   ['amplrowmap',['amplRowMap',['../classs_nlp_info_from_n_l.html#ab8e30a24f8937329b491fd5af1ae3f37',1,'sNlpInfoFromNL::amplRowMap()'],['../get_ampl_function_8_c.html#aa4ea66c705d733e6e7b38ffb4be04d59',1,'amplRowMap():&#160;getAmplFunction.C']]],
   ['amplrowmap1st',['amplRowMap1st',['../classampl_gen_stoch_input.html#a6971971e7ab48ac7d95934cd9f2485c8',1,'amplGenStochInput']]],

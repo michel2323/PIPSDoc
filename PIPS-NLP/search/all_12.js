@@ -28,6 +28,7 @@ var searchData=
   ['readerror',['READERROR',['../_mps_reader_8_c.html#a873ece26df61bd0c0eb71f1b396a2dc6',1,'MpsReader.C']]],
   ['readfile',['readFile',['../classpips_options.html#a71ede9f5e5085280dfb6434a52847144',1,'pipsOptions']]],
   ['readhesssection',['readHessSection',['../class_mps_reader.html#ac6b76ee4807b5ae25e3feb2b13be7ca0',1,'MpsReader::readHessSection(SymMatrix &amp;Q, char line[], int &amp;ierr, int &amp;kindOfLine)'],['../class_mps_reader.html#a3b5bb1617e508960cdabbe82710b1054',1,'MpsReader::readHessSection(int irowQ[], int jcolQ[], double dQ[], char line[], int &amp;ierr, int &amp;kindOfLine)']]],
+  ['readme_2emd',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
   ['readobjectivesense',['readObjectiveSense',['../class_mps_reader.html#aa51dac55d909302774c744953c6d552f',1,'MpsReader']]],
   ['readproblemname',['readProblemName',['../class_mps_reader.html#a829a1cc24b4e533fa259df64d0af4e86',1,'MpsReader']]],
   ['readproblemname2',['readProblemName2',['../class_mps_reader.html#aa0e25fc12bf3193e02f26bc2b7474ca1',1,'MpsReader']]],

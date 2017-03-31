@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['obj',['obj',['../class_d_c_o_p_f_l_o_w.html#a15cb8832ef257440645484f2e5161bc7',1,'DCOPFLOW::obj()'],['../structraw_input_1_1scen_data.html#aa39f76f1e1e201d19711f74212890110',1,'rawInput::scenData::obj()'],['../struct_s_m_p_s_input_1_1problem_data.html#af7cf0bb3811d60f59824b4d0fc09b557',1,'SMPSInput::problemData::obj()'],['../class_smart_pointer.html#a0a1997daa4a015e88f7366efc1d53e3d',1,'SmartPointer::obj()']]],
+  ['obj',['obj',['../class_smart_pointer.html#a0a1997daa4a015e88f7366efc1d53e3d',1,'SmartPointer::obj()'],['../class_d_c_o_p_f_l_o_w.html#a15cb8832ef257440645484f2e5161bc7',1,'DCOPFLOW::obj()'],['../structraw_input_1_1scen_data.html#aa39f76f1e1e201d19711f74212890110',1,'rawInput::scenData::obj()'],['../struct_s_m_p_s_input_1_1problem_data.html#af7cf0bb3811d60f59824b4d0fc09b557',1,'SMPSInput::problemData::obj()']]],
   ['objcheckargname',['objCheckArgName',['../parmodel2_8cpp.html#a8e3289f586663a3ce0d4f6d5d635eda2',1,'objCheckArgName():&#160;parmodel2.cpp'],['../parmodel3_8cpp.html#a8e3289f586663a3ce0d4f6d5d635eda2',1,'objCheckArgName():&#160;parmodel3.cpp'],['../parmodel_link_8cpp.html#a8e3289f586663a3ce0d4f6d5d635eda2',1,'objCheckArgName():&#160;parmodelLink.cpp']]],
   ['objective',['objective',['../struct_pips_nlp_problem_struct.html#ab64954a19dfe92d84ed2e0a1a982bcc5',1,'PipsNlpProblemStruct']]],
   ['objectivename',['objectiveName',['../class_mps_reader.html#a602a5173882eef43894ef213291ff7e9',1,'MpsReader']]],
@@ -22,5 +22,5 @@ var searchData=
   ['oriperr',['Oriperr',['../class_nlp_gen_residuals.html#ae688312a0b00582c46a7fcea770eb40e',1,'NlpGenResiduals']]],
   ['out_5frange',['out_range',['../structmc68__info.html#a1d034dbbbca6f242a49d281a1580a80e',1,'mc68_info']]],
   ['outersolve',['outerSolve',['../classpips_options.html#a58ab340b2f5343543316a73e7d7c4cec',1,'pipsOptions']]],
-  ['ow',['OW',['../_ampl_data___n_l_8cpp.html#adfd5c8319d488e169deb4a07c0c2dbdf',1,'OW():&#160;AmplData_NL.cpp'],['../get_ampl_function_8_c.html#adfd5c8319d488e169deb4a07c0c2dbdf',1,'OW():&#160;AmplData_NL.cpp'],['../get_ampl_function_new_8_c.html#adfd5c8319d488e169deb4a07c0c2dbdf',1,'OW():&#160;AmplData_NL.cpp']]]
+  ['ow',['OW',['../get_ampl_function_8_c.html#adfd5c8319d488e169deb4a07c0c2dbdf',1,'OW():&#160;AmplData_NL.cpp'],['../get_ampl_function_new_8_c.html#adfd5c8319d488e169deb4a07c0c2dbdf',1,'OW():&#160;AmplData_NL.cpp'],['../_ampl_data___n_l_8cpp.html#adfd5c8319d488e169deb4a07c0c2dbdf',1,'OW():&#160;AmplData_NL.cpp']]]
 ];

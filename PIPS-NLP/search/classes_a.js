@@ -16,7 +16,7 @@ var searchData=
   ['nlpinfocallback',['NlpInfoCallBack',['../class_nlp_info_call_back.html',1,'']]],
   ['nlpinfofix',['NlpInfoFIX',['../class_nlp_info_f_i_x.html',1,'']]],
   ['nlppipsipminterface',['NlpPIPSIpmInterface',['../class_nlp_p_i_p_s_ipm_interface.html',1,'']]],
-  ['node',['node',['../structnode.html',1,'node'],['../struct_node.html',1,'Node']]],
+  ['node',['Node',['../struct_node.html',1,'Node'],['../structnode.html',1,'node']]],
   ['nodecommentry',['NodeCommEntry',['../class_node_comm_entry.html',1,'']]],
   ['nodeexecentry',['NodeExecEntry',['../class_node_exec_entry.html',1,'']]]
 ];

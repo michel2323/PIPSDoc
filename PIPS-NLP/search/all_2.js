@@ -27,7 +27,7 @@ var searchData=
   ['bordermat_5fele',['borderMat_ele',['../class_mtx_schur_decomp_solver.html#a6d30819e5bfaa814d9bee2b0767c4cd1',1,'MtxSchurDecompSolver']]],
   ['bordermat_5frowbeg',['borderMat_rowBeg',['../class_mtx_schur_decomp_solver.html#a73040ca2ab9d308c1196144c16ba91a8',1,'MtxSchurDecompSolver']]],
   ['bordermatnnz',['borderMatNNz',['../class_mtx_schur_decomp_solver.html#a5455f481d25a8770d066a7fdf77d8134',1,'MtxSchurDecompSolver']]],
-  ['bothbound',['BothBound',['../get_ampl_function_8h.html#abc6126af1d45847bc59afa0aa3216b04ab98cb2d27275128b988e38ea8508c893',1,'BothBound():&#160;getAmplFunction.h'],['../_nlp_info_call_back_8_c.html#adc29c2ff13d900c2f185ee95427fb06cab98cb2d27275128b988e38ea8508c893',1,'BothBound():&#160;NlpInfoCallBack.C']]],
+  ['bothbound',['BothBound',['../get_ampl_function_8h.html#a99fb83031ce9923c84392b4e92f956b5ab98cb2d27275128b988e38ea8508c893',1,'BothBound():&#160;getAmplFunction.h'],['../_nlp_info_call_back_8_c.html#abc6126af1d45847bc59afa0aa3216b04ab98cb2d27275128b988e38ea8508c893',1,'BothBound():&#160;NlpInfoCallBack.C']]],
   ['boundname',['boundName',['../class_mps_reader.html#a60e826bb64fef9ac958905aca748c0f1',1,'MpsReader']]],
   ['boundtype',['boundType',['../class_mps_reader.html#a223aec8a069751125967fed9bbde781a',1,'MpsReader']]],
   ['bu',['bu',['../class_nlp_gen_data.html#a5aa81f25638e8a5f21eed855debe4b00',1,'NlpGenData']]],

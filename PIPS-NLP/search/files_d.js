@@ -4,6 +4,7 @@ var searchData=
   ['randutils_2eh',['randUtils.h',['../rand_utils_8h.html',1,'']]],
   ['rawinput_2ecpp',['rawInput.cpp',['../raw_input_8cpp.html',1,'']]],
   ['rawinput_2ehpp',['rawInput.hpp',['../raw_input_8hpp.html',1,'']]],
+  ['readme_2emd',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
   ['reducedspacesolver_2ec',['ReducedSpaceSolver.C',['../_reduced_space_solver_8_c.html',1,'']]],
   ['reducedspacesolver_2eh',['ReducedSpaceSolver.h',['../_reduced_space_solver_8h.html',1,'']]],
   ['reducedspacesolverstateonly_2ec',['ReducedSpaceSolverStateOnly.C',['../_reduced_space_solver_state_only_8_c.html',1,'']]],

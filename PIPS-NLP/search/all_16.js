@@ -1,7 +1,7 @@
 var searchData=
 [
   ['v',['v',['../class_nlp_gen_vars.html#a8d27fe8d11e4c2737fe05f4a317e0097',1,'NlpGenVars::v()'],['../class_simple_vector.html#ab381a9af2135176ce6cac6fcbd59413a',1,'SimpleVector::v()'],['../struct_prob_data.html#a4f6bac08de9c2563006a52759526d73b',1,'ProbData::v()']]],
-  ['v_5fblock',['v_block',['../_nlp_gen_vars_8h.html#a99fb83031ce9923c84392b4e92f956b5af746ea64108ef87b9d44e6611f2cb6a5',1,'NlpGenVars.h']]],
+  ['v_5fblock',['v_block',['../_nlp_gen_vars_8h.html#adf764cbdea00d65edcd07bb9953ad2b7af746ea64108ef87b9d44e6611f2cb6a5',1,'NlpGenVars.h']]],
   ['va',['va',['../class_d_c_b_u_s.html#a278ee44961d235141ede58faefdb661a',1,'DCBUS']]],
   ['val',['val',['../class_ma86_solver.html#ad1c8740b321db170b19ab2ceff04a211',1,'Ma86Solver']]],
   ['validnonzeropattern',['validNonZeroPattern',['../class_nlp_gen_residuals.html#af7a64eddc330234732f37bcc1b910a23',1,'NlpGenResiduals::validNonZeroPattern()'],['../class_nlp_gen_vars.html#a27e13c2b248ccadce8e0794e86af255b',1,'NlpGenVars::validNonZeroPattern()']]],
