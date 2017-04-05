@@ -1,4 +1,4 @@
-# [Installation of PIPS-NLP and Julia/StructJuMP][structjump.md]
+# Installation of PIPS-NLP and Julia/StructJuMP
 
 1. Build third party libraries and PIPS-NLP
 2. Download and install Julia 0.4.7 (support for 0.5 is in the works).
@@ -20,7 +20,8 @@ Pkg.clone("https://github.com/StructJuMP/StructJuMPSolverInterface.jl")
  
 module StructJuMP
    
-@@ -7,8 +7,8 @@ import MathProgBase
+@@ -7,8 +7,8 @@ 
+import MathProgBase
 import ReverseDiffSparse
      
 # These modules could be optional.
