@@ -1,4 +1,4 @@
-# INSTALLATION INSTRUCTIONS
+# Installation Instructions
 
 ## [Installation of PIPS-NLP and Julia/StructJuMP](structjump.md)
 

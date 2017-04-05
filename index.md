@@ -43,9 +43,9 @@ See LICENSE file.
 
 ### [Doxygen documentation](./PIPS-NLP/)
 
-# [INSTALLATION INSTRUCTIONS](./installation.md)
+# [Installation Instructions](./installation.md)
 
-# ACKNOWLEDGMENTS
+# Acknowledgments
 
 PIPS has been developed under the financial support of: 
 - Department of Energy, Office of Advanced Scientific Computing Research
