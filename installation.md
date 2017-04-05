@@ -1,6 +1,6 @@
-# [INSTALLATION INSTRUCTIONS](./installation.md)
+# INSTALLATION INSTRUCTIONS
 
-## [Installation of PIPS-NLP and Julia/StructJuMP][structjump.md]
+## [Installation of PIPS-NLP and Julia/StructJuMP](structjump.md)
 
 ## Building PIPS-S only can be achieved via 
 1. cmake -DBUILD_ALL=OFF -DBUILD_PIPS_S=ON <path_to_CMakeLists.txt>
